@@ -3,10 +3,10 @@ import os
 from heroku3 import from_key
 from pyrogram import Client
 
-API_ID = int(os.environ.get("API_ID", "6"))
-API_HASH = os.environ.get("API_HASH", "eb06d4abfb49dc3eeb1aeb98ae0f581e")
-BOT_TOKEN = os.environ.get("BOT_TOKEN", None)
-ARQ_API_KEY = "XQYJAL-HTSZIK-YALWDS-TJPWMO-ARQ" 
+API_ID = int(os.environ.get("API_ID", "7211896"))
+API_HASH = os.environ.get("API_HASH", "d22a4d25860c6673209ea07dc194857a")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", 2064609555:AAGeElYciRg-nIKYEsH-53zZkklxB3oyt54)
+ARQ_API_KEY = "PCGCCA-FUAEEL-DZPGGH-ZESZXF-ARQ" 
 LANGUAGE = "en"
 ARQ_API_BASE_URL = "https://thearq.tech"
 
